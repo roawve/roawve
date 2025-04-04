@@ -26,16 +26,6 @@ Here's a list of the technologies I work with confidently:
 *   **DevOps & Tools:** Git, Docker, CI/CD (GitHub Actions/Jenkins), AWS/GCP/Azure 
 *   **Other:** RESTful APIs, GraphQL, WebSockets, Agile Methodologies
 
-*(Optional: Use badges for skills - search for 'skill icons dev' or use shields.io)*
-*Example using icons (you'd need to find the actual icon URLs):*
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> 
-</p>
-
 ---
 
 ### 🌱 What I'm Working On
